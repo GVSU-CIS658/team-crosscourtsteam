@@ -1,0 +1,1 @@
+Week 2 commit by Osama: This push contains Osama's Week 2 phase updates, building on previous progress while following project conventions and keeping alignment with teammate contributions. The work is prepared for clean merge into the shared repository and supports uninterrupted phase-by-phase completion.
