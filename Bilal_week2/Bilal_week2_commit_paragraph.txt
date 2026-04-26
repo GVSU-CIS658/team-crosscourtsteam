@@ -1,0 +1,1 @@
+Week 2 commit by Bilal: This push contains Bilal's Week 2 phase progress, extending prior work with the assigned tasks and maintaining consistency with project architecture and team standards. The changes are prepared for smooth merge into the main project so that overall weekly delivery remains complete and nothing is left behind.

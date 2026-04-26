@@ -1,0 +1,1 @@
+Week 4 commit by Bilal: This push finalizes Bilal's Week 4 phase deliverables and closes assigned items for the current submission cycle. The updates are aligned with the full project objective, reviewed for merge readiness, and prepared to be part of the complete shared Git submission with no pending Bilal-side gaps.
